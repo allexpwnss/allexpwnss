@@ -4,7 +4,7 @@
 - 🔍 Enthusiast in **scripting**, **networking**, and **cybersecurity**
 - 📚 Currently delving deeper into **networking** and **automation scripting**
 - 🤝 Open to collaborating on **security tools**, **network automation**, and **open-source projects**
-- 📫 Reach out via email: [your.email@example.com]
+- 📫 Reach out via email: [allexpwnss@gmail.com]
 
 ## 🛠️ Technologies & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
